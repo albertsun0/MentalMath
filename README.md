@@ -10,4 +10,5 @@ Created with React, Tailwind CSS, and Socket.IO
 - [x] Basic artihmatic operations for mental calculation
 - [ ] Advanced math tricks, ex: sqaure numbers ending with 5
 - [ ] Extra operations, estimate square root, modulus
+- [ ] User accounts and leaderboard
 - [ ] Interface for learning mental math tricks and techniques 
