@@ -1,5 +1,5 @@
 # MentalMath
-https://qwertyuiop888.github.io/math/
+https://albertsun0.github.io/math/
  
 Multiplayer online mental math competiton game. Compete with up to 8 other players!
 
